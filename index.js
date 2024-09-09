@@ -26,7 +26,7 @@ app.get('/slack/oauth', async (req, res) => {
                 code,
                 client_id: clientId,
                 client_secret: clientSecret,
-                redirect_uri: 'https://sprouts-ai.com/slack/oauth' // Your redirect URI
+                redirect_uri: 'https://slack-oauth.onrender.com/slack/oauth' // Your redirect URI
             }
         });
 
