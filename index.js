@@ -6,8 +6,8 @@ const app = express();
 const port = 3000;
 
 // Replace these with your Slack app credentials
-const clientId = '7699652785732.7697443706227';
-const clientSecret = '88dfc39f00177bd82302d1003809d6b7';
+const clientId = '7699652785732.7710438728193';
+const clientSecret = '5378e7e868550381ca0dd004b2ce5563';
 
 // OAuth endpoint for Slack
 
